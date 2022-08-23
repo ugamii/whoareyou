@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "whoareyou",
+  "version": "${version}",
+
+  "name": "Who are you?",
+  "description": "This mod shows your and other players nickname",
+  "authors": [
+    "ugamii"
+  ],
+  "contact": {
+    "homepage": "https://github.com/ugamii/whoareyou",
+    "issues": "https://github.com/ugamii/whoareyou/issues",
+    "sources": "https://github.com/ugamii/whoareyou"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/whoareyou/icon.png",
+
+  "mixins": [
+    "whoareyou.mixins.json"
+  ]
+}
