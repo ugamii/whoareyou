@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Who are you?",
-  "description": "This mod shows your and other players nickname",
+  "description": "This mod displays your and other players nickname",
   "authors": [
     "ugamii"
   ],
@@ -14,8 +14,16 @@
     "sources": "https://github.com/ugamii/whoareyou"
   },
 
-  "license": "MIT License",
+  "license": "MPL-2.0",
   "icon": "assets/whoareyou/icon.png",
+  "entrypoints": {
+    "client": [
+      "dev.ugamii.whoareyou.WhoAreYou"
+    ],
+    "modmenu": [
+      "dev.ugamii.whoareyou.config.ModMenuIntegration"
+    ]
+  },
 
   "mixins": [
     "whoareyou.mixins.json"

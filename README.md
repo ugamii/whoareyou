@@ -1,5 +1,5 @@
 # Who are you?
-## Minecraft mod which shows your and other players nickname
+## Minecraft mod which displays your and other players nickname
 
 ### because my minecraft server disabled them
 

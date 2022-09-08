@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.ugamii.whoareyou.mixin",
+  "package": "dev.ugamii.whoareyou.mixin",
   "client": [
     "LivingEntityRendererMixin"
   ],

@@ -1,0 +1,5 @@
+{
+  "whoareyou.config.nameDisplaying": "Отображение имени",
+  "whoareyou.config.nameDisplaying.own": "Отображать свое имя",
+  "whoareyou.config.nameDisplaying.otherPlayers": "Отображать имя других игроков"
+}
